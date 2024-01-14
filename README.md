@@ -22,7 +22,7 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 ## Temporal Analysis of Tweets
 
 <p align="center">
-		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" alt="devicon" height="100" width="100" />
+		<img align="center" src="https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="100" width="100" />
 </p>
 - Number of Tweets between 2008 and 2021, Bottom: Most used words in posted tweets for each phase
 
