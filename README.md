@@ -21,7 +21,6 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 
 ## Temporal Analysis of Tweets
 <p align="center">
-	<a href="mailto:shamshiri.alireza@protonmail.com" target="_blank">
 		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="40" width="40" />
 </p>
 
