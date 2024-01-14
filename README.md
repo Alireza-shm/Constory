@@ -22,8 +22,7 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 ## Temporal Analysis of Tweets
 <p align="center">
 	<a href="mailto:shamshiri.alireza@protonmail.com" target="_blank">
-		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" alt="email" height="40" width="40" />
-	</a>
+		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="40" width="40" />
 </p>
 
 - Number of Tweets between 2008 and 2021, Bottom: Most used words in posted tweets for each phase
