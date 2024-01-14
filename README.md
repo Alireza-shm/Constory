@@ -31,4 +31,6 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 <p align="center">
 		<img align="center" src="https://github.com/Alireza-shm/Constory/blob/main/Images/Tr.jpg" "height="500" width="500" />
 </p>
-			- Weights of extracted topics based on the appearing in the number of tweets posted in each year
+- Weights of extracted topics based on the appearing in the number of tweets posted in each year
+
+- Topic Weights = "Number of topics assigned to each tweet" / "Each year tweets contain that topic"
