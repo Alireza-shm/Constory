@@ -24,11 +24,11 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 <p align="center">
 		<img align="center" src="https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="500" width="500" />
 </p>
-- 			Number of Tweets between 2008 and 2021, Bottom: Most used words in posted tweets for each phase
+			- Number of Tweets between 2008 and 2021, Bottom: Most used words in posted tweets for each phase
 
 ## Topic Modeling Results
 
 <p align="center">
 		<img align="center" src="https://github.com/Alireza-shm/Constory/blob/main/Images/Tr.jpg" "height="500" width="500" />
 </p>
-- 			Weights of extracted topics based on the appearing in the number of tweets posted in each year
+			- Weights of extracted topics based on the appearing in the number of tweets posted in each year
