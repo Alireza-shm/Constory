@@ -20,10 +20,10 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 - Topic Modeling Performed Using Gibbs sampling algorithm for a Dirichlet Mixture Model (https://github.com/rwalk/gsdmm)
 
 ## Temporal Analysis of Tweets
-<p align="center">
-		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" "height="40" width="40" />
-</p>
 
+<p align="center">
+		<img align="center" src="images/hello_there.gif](https://github.com/Alireza-shm/Constory/blob/main/Images/tA.jpg" alt="devicon" height="100" width="100" />
+</p>
 - Number of Tweets between 2008 and 2021, Bottom: Most used words in posted tweets for each phase
 
 ## Topic Modeling Results
