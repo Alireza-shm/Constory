@@ -34,3 +34,16 @@ A project focused on extracting the public opinions of North Houston Highway Imp
 - Weights of extracted topics based on the appearing in the number of tweets posted in each year
 
 - Topic Weights = Number of topics assigned to each tweet / Each year tweets contain that topic
+
+## Citation
+
+If you liked our paper, please consider citing it
+```bibtex
+@inproceedings{shamshiri2022constory,
+  title={ConStory: Automatic story investigator of public perception on the mega urban infrastructure project},
+  author={Shamshiri, Alireza and Ryu, Kyeong Rok and McCullough, Steven and Park, June Young},
+  booktitle={Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={293--294},
+  year={2022}
+}
+```
